@@ -1,0 +1,15 @@
+# theme.toml template for a Hugo theme
+# See https://github.com/gohugoio/hugoThemes#themetoml for an example
+
+name = "Atom Template for Hugo"
+license = "Apache License 2.0"
+licenselink = "https://github.com/araname/atom-template-for-hugo/blob/master/LICENSE"
+description = "Allows Hugo to generate Atom feeds to your site"
+homepage = "https://github.com/araname/atom-template-for-hugo"
+tags = []
+features = []
+min_version = "0.110.0"
+
+[author]
+  name = ["Bjørn Erik Pedersen", "Anthony Fok", "Myeongjin"]
+  homepage = ""
