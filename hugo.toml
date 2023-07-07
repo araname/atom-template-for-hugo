@@ -1,0 +1,19 @@
+[mediaTypes]
+[mediaTypes."application/atom+xml"]
+suffixes = ["xml"]
+
+[outputFormats]
+[outputFormats.Atom]
+name = "Atom"
+mediaType = "application/atom+xml"
+baseName = "index.atom"
+rel = "alternate"
+isPlainText = false
+isHTML = false
+noUgly = true
+permalinkable = false
+
+[module]
+  [module.hugoVersion]
+    extended = false
+    min = "0.116.0"

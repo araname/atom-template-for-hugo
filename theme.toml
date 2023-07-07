@@ -1,0 +1,12 @@
+name = 'Atom Template for Hugo'
+license = 'Apache License 2.0'
+licenselink = 'https://github.com/araname/atom-template-for-hugo/blob/main/LICENSE'
+description = 'Allows Hugo to generate Atom feeds to your site'
+homepage = 'https://github.com/araname/atom-template-for-hugo'
+authors = [
+  {name = 'Bjørn Erik Pedersen', homepage = 'https://bep.is'},
+  {name = 'Anthony Fok', homepage = ''},
+  {name = 'Joe Mooring', homepage = 'https://www.veriphor.com'},
+  {name = 'Daniel Terhorst-North', homepage = 'https://dannorth.net'},
+  {name = 'Myeongjin', homepage = 'https://araname.github.io'}
+]
